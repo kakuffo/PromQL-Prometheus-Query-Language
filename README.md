@@ -30,6 +30,12 @@ Slack, and other compatible, and configured applications.
 
 ### YML Alertmanager configured
 
+
+
+#### Configuration file
+
+To specify which configuration file to load, use the --config.file flag.
+
 ## Metrics
 
 Prometheus metrics operates as another component of the compere Prometheus open source
