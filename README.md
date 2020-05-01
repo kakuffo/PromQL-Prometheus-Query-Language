@@ -24,7 +24,9 @@ software infrastructure management into the software development lifecycle.
 Therefore, continuous alerting in DevOps is primarily concerned with monitoring
 of infrastructure processes, software and augmenting alerting to the complete development
 teams in a DevOps.  The alerting component in Prometheus is the responsibility of the
-AlertManager.
+AlertManager.  The AlertManager responds to deviation from set parameters by organising the
+data from the monitoring into actionable information that is then pushed to specified E-mail,
+Slack, and other compatible, and configured applications.
 
 ## Metrics
 
