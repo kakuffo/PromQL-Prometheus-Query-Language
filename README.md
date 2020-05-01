@@ -20,7 +20,7 @@ DevOps is the process of encompassing software operation, typically
 software infrastructure management into the software development lifecycle.
 Therefore, continuous alerting in DevOps is primarily concerned with monitoring
 of infrastructure processes, software and augmenting alerting to the complete development
-teams in a DevOps.  The alerting component in Premetheus is the responsibility of the
+teams in a DevOps.  The alerting component in Prometheus is the responsibility of the
 AlertManager.
 
 
