@@ -11,7 +11,10 @@ a tool it offers three integral monitoring and alerting solutions.
 Firstly, Prometheus offers DevOps Alerting, secondly Prometheus
 offers DevOps metrics, and finally Prometheus offers DevOps
 visualisation.
-
+Counter
+Gauge
+Histogram
+Summary
 ## Alerting
 
 The output of any alerting process or system is the ability to
@@ -23,6 +26,12 @@ of infrastructure processes, software and augmenting alerting to the complete de
 teams in a DevOps.  The alerting component in Prometheus is the responsibility of the
 AlertManager.
 
+## Metrics
+
+Prometheus metrics operates as another component of the compere Prometheus open source
+application.  The purpose of the metrics is to afford granular actionable data to the 
+DevOps teams.  The granularity of the metrics are realised through a metrics Counter, a metrics
+Gauge, a metrics Histogram, and a metrics Summary.
 
 
 
