@@ -25,17 +25,27 @@ Therefore, continuous alerting in DevOps is primarily concerned with monitoring
 of infrastructure processes, software and augmenting alerting to the complete development
 teams in a DevOps.  The alerting component in Prometheus is the responsibility of the
 AlertManager.  The AlertManager responds to deviation from set parameters by organising the
-data from the monitoring into actionable information that is then pushed to specified E-mail,
-Slack, and other compatible, and configured applications.
+alerting data from the monitoring into actionable information that is then pushed to specified E-mail,
+Slack, and other compatible, and configured applications.  
+
+### YML Alertmanager configured
 
 ## Metrics
 
 Prometheus metrics operates as another component of the compere Prometheus open source
 application.  The purpose of the metrics is to afford granular actionable data to the 
 DevOps teams.  The granularity of the metrics are realised through a metrics Counter, a metrics
-Gauge, a metrics Histogram, and a metrics Summary.
+Gauge, a metrics Histogram, and a metrics Summary.  Below are the components explained.
+
+### Counter
 
 
+### Gauge
+
+
+### Histogram
+
+### Summary
 
 Prometheus
 provides a functional query language called PromQL 
