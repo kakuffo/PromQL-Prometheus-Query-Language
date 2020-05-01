@@ -28,7 +28,7 @@ AlertManager.  The AlertManager responds to deviation from set parameters by org
 alerting data from the monitoring into actionable information that is then pushed to specified E-mail,
 Slack, and other compatible, and configured applications.  
 
-### YML Alertmanager configured
+### YAML Alertmanager configured
 
 
 
