@@ -19,7 +19,10 @@ provide indication of the subject of alerting deviating from set parameters.
 DevOps is the process of encompassing software operation, typically
 software infrastructure management into the software development lifecycle.
 Therefore, continuous alerting in DevOps is primarily concerned with monitoring
-of infrastructure, and processes. 
+of infrastructure processes, software and augmenting alerting to the complete development
+teams in a DevOps.  The alerting component in Premetheus is the responsibility of the
+AlertManager.
+
 
 
 
