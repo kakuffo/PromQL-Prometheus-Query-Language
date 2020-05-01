@@ -14,6 +14,9 @@ visualisation.
 
 ## Alerting
 
+The output of any alerting process or system is the ability to
+provide indication of the subject of alerting deviating from set parameters.
+DevOps is the 
 
 
 
