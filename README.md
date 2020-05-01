@@ -16,7 +16,12 @@ visualisation.
 
 The output of any alerting process or system is the ability to
 provide indication of the subject of alerting deviating from set parameters.
-DevOps is the 
+DevOps is the process of encompassing software operation, typically
+software infrastructure management into the software development lifecycle.
+Therefore, continuous alerting in DevOps is primariarly concerned with monitoring
+of infrastructure, and processes. 
+
+
 
 
 
